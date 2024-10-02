@@ -1,0 +1,16 @@
+.question {
+  margin-bottom: 20px;
+}
+
+.option {
+  margin-right: 10px;
+  padding: 10px;
+  background-color: lightblue;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.option:hover {
+  background-color: deepskyblue;
+}

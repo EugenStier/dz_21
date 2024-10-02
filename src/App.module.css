@@ -1,0 +1,16 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.submitButton {
+  padding: 10px 20px;
+  background-color: lightcoral;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.submitButton:hover {
+  background-color: crimson;
+}
